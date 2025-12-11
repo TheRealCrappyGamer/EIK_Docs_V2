@@ -248,7 +248,7 @@ const config: DocsThemeConfig = {
     ),
   },
   chat: {
-    link: "https://discord.gg/betidestudio",
+    link: "https://discord.gg/3RpDvvKNpJ",
   },
   docsRepositoryBase: "https://github.com/deveshmishrabetide/EIK_Docs_V2",
   footer: {
